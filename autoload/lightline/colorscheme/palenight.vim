@@ -14,7 +14,7 @@ let s:p_yellow = ["#ffcb6b", 180, 3]
 let s:p_light_red = ["#ff869a", 204, 1]
 let s:p_red = ["#ff5370", 204, 1]
 let s:p_dark_yellow = ["#F78C6C", 173, 11]
-let s:p_cyan = ["#63ffaa", 38, 6]
+let s:p_cyan = ["#47d09a", 38, 6]
 let s:p_comment_grey = ["#697098", 59, 15]
 let s:p_black = ["#292D3E", 235, 0]
 
